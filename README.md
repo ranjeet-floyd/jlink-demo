@@ -10,5 +10,5 @@ jlink tool to assemble and optimize a set of modules and their dependencies into
     docker images | grep jlink-demo
 
 # Docker Image Size
-    [Image size] (./docker-image-size.png)
+    [Image size](./docker-image-size.png)
 
